@@ -1,3 +1,0 @@
-# Dedication
-
-For Joaquín

@@ -1,5 +1,0 @@
-# Customer Feedback
-
-Thanks for purchasing this Packt book. At Packt, quality is at the heart of our editorial process. To help us improve, please leave us an honest review on this book's Amazon page at [https://www.amazon.com/dp/1787282759](https://www.amazon.com/dp/1787282759).
-
-If you'd like to join our team of regular reviewers, you can e-mail us at customerreviews@packtpub.com. We award our regular reviewers with free eBooks and videos in exchange for their valuable feedback. Help us be relentless in improving our products!

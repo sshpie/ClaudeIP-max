@@ -1,5 +1,0 @@
-# Production scale
-
-Following the PoC acceptance and approval for the project to move forward to production, the architecture from the PoC must be scaled for production. A production-scale system will include significantly more end points, network connections, data objects, and data volumes. Additional data-management features may be necessary to control network usage. Memory resources are scaled to facilitate advanced analytics against larger data sets. The network must be resilient enough to support the many different components, programming languages, operating systems, resource constraints, and platforms in IIoT systems.
-
-The choices made for connectivity, or architecture patterns, and distributed intelligence, drive deployment issues. Usually, development and testing are performed in separate environments from production, or deployment environment. The memory footprint, CPU, and other environmental variables and resource constraints can vary in the different systems. In IIoT, the framework should support all platforms in both the development and deployment environments.

@@ -1,5 +1,0 @@
-# Evaluate/modify
-
-The primary purpose of a PoC is to validate the requirements and capabilities of the system and its ability to deliver business value, and provide a basis for feedback and improvements. The PoC enables the project teams to identify flaws in the design, limitations of components, and other areas for further development, without major investments. The PoC process also provides a foundation and ecosystem for better understanding of the requirements and the feasibility of the solution.
-
-In evaluating a PoC, the project team records observations, findings, measurements, and feedback and evaluates the PoC against the requirements and success criteria. The capabilities can be mapped back to the usages and human-value experiences to validate that the technical capability meets those expectations, and document where they fall short or miss entirely. At this stage, the requirements may need to be clarified or reconsidered. The project team can then make necessary modifications to the PoC and repeat the evaluation process. The valuation and modification stage is iterative in nature and may require several rounds of evaluations and modifications.

@@ -1,3 +1,0 @@
-# WebSocket
-
-Andrew Lombardi

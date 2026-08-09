@@ -1,3 +1,0 @@
-# About the Technical Reviewer
-
-**Aaron Guzman** is co-author of the IoT Penetration Testing Cookbook and a technical leader for Cisco Meraki’s security team. As part of OWASP’s IoT and Embedded Application Security projects, he leads open source initiatives that raise awareness of IoT security defensive strategies and lower the barrier for entry into IoT hacking. Aaron is co-chair of Cloud Security Alliance’s IoT Working Group and a technical reviewer for several IoT security books. He has extensive public speaking experience, delivering conference presentations, trainings, and workshops globally. Follow Aaron’s research on Twitter at [@scriptingxss](http://www.twitter.com/@scriptingxss).

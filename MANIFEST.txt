@@ -23,13 +23,6 @@ MCP INTEGRATION
 - 5 tools exposed to Claude Code
 - Natural language command interface
 
-BOOK SOURCES
-------------
-- Violent Python Ch4: TTL detection (H.D. Moore Pentagon technique)
-- Python for Security Ch5: Scapy packet crafting
-- Network Security Hacks: ARP/ICMP spoofing
-- DDoS (O'Reilly): Amplification factors
-
 NOVEL CONTRIBUTIONS
 -------------------
 1. GhostPort timing side-channel method

@@ -1,9 +1,0 @@
-# Cloud and user experience considerations
-
-The frameworks we've described provide some of the background material you will need. However, other areas are less well covered because they are relatively new (cloud computing) or not typically in the domain of architects (user experience).
-
-Architects are typically very comfortable defining on-premises systems and translating that knowledge into *public cloud concepts*. IaaS is a form of cloud computing that provides virtualized computing resources for enterprise and Industrial Internet systems in the form of operating systems, servers, storage, and, networking. They can also choose PaaS which also delivers data management systems, tools, and the management of those components, or SaaS that provide an even more complete solution. We will further discuss the business and technical trade-offs of each in the next couple of chapters.
-
-That said, architects must make key design decisions that span the on-premises and Public Cloud paradigms. They must consider where the data is stored and who it belongs to. The compliance and regulatory landscape often becomes a key consideration for the architects. As with any solution, they must consider who has access to the data and under what context. We'll provide much more guidance here later in the book.
-
-As data is collected and analyzed to turn insights into action, the user experience, or UX, assumes importance. It is important to remember that UX Design refers to the **User Experience Design**, while the more understood UI Design stands for **User Interface Design**. An industrial worker on the factory floor or a field service technician working on overhead power lines has a very different expectations when interacting with the environment and the device they use to deliver *actionable* tasks.

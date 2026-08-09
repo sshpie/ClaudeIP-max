@@ -1,7 +1,0 @@
-# Dynamic composition and automated interoperability
-
-IIoT systems encompass and connect a diverse and distributed array of systems, components, and networks that utilize a variety of protocols, and are expected to scale and deliver end-to-end services safely and securely.
-
-The IIoT system must respond to changing environments and evolving technologies and standards without interrupting service. This requires adaptable methods of composing services where components can be integrated dynamically at run time, which is not possible with point-to-point connections. A flexible system requires semantic interoperability that supports many-to-many connections where connections are indirectly linked by metadata, not statically connected. The metadata enables the separation of the system capability and control, or what the capability or service does from the infrastructure and implementation, or how it does it.
-
-The physical composition of a service is interpreted at run time by referencing the information model, which maps to the physical components of the requested service. The mapped connections and their corresponding policies and transformations are discovered and integrated at run time. This loose coupling of service capabilities and component connections enables automatic interoperability and policy-based optimizations, and can dynamically adapt to new components and compose and reconfigure network resources.

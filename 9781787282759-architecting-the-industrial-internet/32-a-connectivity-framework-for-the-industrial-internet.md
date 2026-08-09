@@ -1,7 +1,0 @@
-# A connectivity framework for the Industrial Internet
-
-Connectivity is at the heart of making IIoT projects functional. Interoperability among the tiers and to devices must be planned for.
-
-IIC released the **Industrial Internet Connectivity Framework** (**IICF**) to deal with such architectural considerations; this is a result of contributions from professionals in several large companies, including Cisco, Ericsson, Nokia, RTI, GE, Samsung, AT&T, and SAP. The IICF links the different elements of the rich and diverse landscape of the Industrial Internet and defines an open connectivity reference architecture. IICF enables architects to evaluate and determine the suitability of a connectivity technology for their systems and solutions.
-
-The IICF answers commonly asked by architects about connectivity in the different layers and their functions for Industrial Internet systems. It describes the architectural characteristics and design trade-offs at each layer, commonly available industry standards for these layers, and the categorization and evaluation of the relevant connectivity technology. As we dig deeper into the connectivity issues for Industrial Internet systems, in upcoming chapters, you will learn about connectivity frameworks often used in manufacturing such as **Open Platform Communications Unified Architecture** (**OPC-UA**), developed by the OPC Foundation. OPC-UA is a **machine-to-machine** (**m2m**) communication protocol commonly used for industrial automation.
