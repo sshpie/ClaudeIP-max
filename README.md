@@ -26,7 +26,7 @@ sudo python3 lan-discovery.py --full --output lan-hosts.json
 
 ---
 
-### Layer 3 — Internet-Wide
+### Internet-Wide
 
 #### `spoofer.py`
 Core IP spoofing primitives: TCP SYN flood, UDP amplification/reflection, ICMP redirect, decoy scanning (Nmap -D style), TTL manipulation.
@@ -52,7 +52,7 @@ sudo python3 ghostport.py scan 192.168.1.100 --victim 8.8.8.8 --ports 80,443,22 
 
 ---
 
-### Layer 2/3 MITM — LAN
+### LAN MITM
 
 #### `dhcp-spoof.py`
 Rogue DHCP server (RFC 2131). Three modes: `gateway` (become default route), `dns` (poison resolver only), `isolate` (DoS via invalid gateway).
