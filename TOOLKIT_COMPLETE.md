@@ -100,6 +100,6 @@ All tools follow VDT baseline v2.1:
 
 ## GitHub
 
-**Repository:** https://github.com/zellkernel/ClaudeCodeIPTool
+**Repository:** https://github.com/sshpie/ClaudeCodeIPTool
 
 **License:** Educational/Research - VDT compliance required
